@@ -1,4 +1,5 @@
 # Airbnb Revenue Management — dynamic pricing as a perishable-inventory problem
+**[→ Live results dashboard](https://sasifraza.github.io/airbnb-revenue-management/output/dashboard.html)**
 
 Dynamic pricing for a single short-term-rental listing, treated exactly as airline
 seat-inventory control: each stay-night is one unit of perishable inventory sold over
